@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://raw.githubusercontent.com/Puetate/Puetate/main/hero.webp">
+<img align="center" alt="Coding" src="https://raw.githubusercontent.com/Puetate/Puetate/main/hero2.webp">
 <h1 align="center">Hi 👋, I'm Jhoel Puetate</h1>
 <h3 align="center">A full stack software engineer, frontend and backend developer specialized in Flutter, React & NestJS technologies. 😀</h3>
 
