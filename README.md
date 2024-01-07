@@ -3,7 +3,7 @@
 <h3 align="center">A full stack software engineer, frontend and backend developer specialized in Flutter, React & NestJS technologies. 😀</h3>
 
 <h3 align="center">About me</h1>
-<h5 align="center">I am a passionate frontend and backend developer with a special love for mobile development. Among my hobbies are skateboarding, playing the guitar, and basketball. I enjoy taking on challenges and diving into the world of programming.</h3>
+<p align="center">I am a passionate frontend and backend developer with a special love for mobile development. Among my hobbies are skateboarding, playing the guitar, and basketball. I enjoy taking on challenges and diving into the world of programming.</p>
 
 
 - 🔭 I’m currently working on [Vivo Vivo](https://github.com/Puetate/vivo-vivo-app)
