@@ -1,9 +1,10 @@
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/Puetate/Puetate/main/an_dev.gif">
 <h1 align="center">Hi 👋, I'm Jhoel Puetate</h1>
 <h3 align="center">A full stack software engineer, frontend and backend developer specialized in Flutter, React & NestJS technologies. 😀</h3>
 
 <h1 align="center">About me</h1>
 <h3 align="center">I am a passionate frontend and backend developer with a special love for mobile development. Among my hobbies are skateboarding, playing the guitar, and basketball. I enjoy taking on challenges and diving into the world of programming.</h3>
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/Puetate/Puetate/main/an_dev.gif">
+
 
 - 🔭 I’m currently working on [Vivo Vivo](https://github.com/Puetate/vivo-vivo-app)
 
