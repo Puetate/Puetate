@@ -83,7 +83,10 @@
                 height="30" /> </a> &nbsp;
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" />
-            </a>
+            </a>&nbsp;
+            <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> <img
+              src="https://www.svgrepo.com/show/376328/jira.svg" alt="jira" width="30" height="30" />
+          </a>
         </p>
       </td>
     </tr>
