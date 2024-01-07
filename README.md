@@ -88,7 +88,7 @@
       </td>
     </tr>
   </table>
-### Stats :bar_chart:
+<h3 align="center">Stats</h3>
     <div>
       <p align="center"><img align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=puetate&theme=dracula" alt="puetate" /></p>
@@ -99,12 +99,8 @@
         src="https://github-readme-stats.vercel.app/api?username=puetate&show_icons=true&locale=en&theme=dracula"
         alt="puetate" /></p>
     </div>
-  <p align="center">
     <h3 align="center">Connect with me:</h3>
-    <a href="https://linkedin.com/in/https://puetate.github.io/portfolio-vue/" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="https://puetate.github.io/portfolio-vue/" height="30" width="40" /></a>
-    <a href="https://instagram.com/jhoel.pueta" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="jhoel.pueta" height="30" width="40" /></a>
-  </p>
+    <p align="center">
+<a href="https://linkedin.com/in/https://puetate.github.io/portfolio-vue/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://puetate.github.io/portfolio-vue/" height="30" width="40" /></a>
+<a href="https://instagram.com/jhoel.pueta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhoel.pueta" height="30" width="40" /></a>
+</p>
