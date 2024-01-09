@@ -93,8 +93,8 @@
   </table>
 <h3 align="center">Stats</h3>
     <div>
-      <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puetate&theme=dracula" alt="stat1">
+     <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TigselemaAlex&theme=dracula" alt="stat1">
 </p>
     <p align="center"><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=puetate&show_icons=true&locale=en&theme=dracula"
